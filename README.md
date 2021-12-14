@@ -1,0 +1,2 @@
+# Magazine
+Mock - Up
