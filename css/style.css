@@ -24,7 +24,7 @@ main {
 main .top {
     width: 675px;
     height: 675px;
-    background: url('/images/bg.jpg');
+    background: url('../images/bg.jpg');
     background-repeat: no-repeat;
     background-position: center;
     position: relative;
