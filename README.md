@@ -1,2 +1,3 @@
 # Magazine
-Mock - Up
+
+![Design preview for the NFT preview card component coding challenge](./images/screenshot.png)
