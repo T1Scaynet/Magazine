@@ -1,3 +1,3 @@
 # Magazine
 
-![Design preview for the NFT preview card component coding challenge](./images/screenshot.png)
+![Design preview for the MAGAZINE challenge](./images/screenshot.png)
